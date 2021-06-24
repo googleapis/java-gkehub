@@ -3,4 +3,8 @@
 
 google-cloud-gkehub:0.2.1:0.2.2-SNAPSHOT
 grpc-google-cloud-gkehub-v1beta1:0.2.1:0.2.2-SNAPSHOT
+grpc-google-cloud-gkehub-v1alpha2:0.2.1:0.2.2-SNAPSHOT
+grpc-google-cloud-gkehub-v1alpha:0.2.1:0.2.2-SNAPSHOT
 proto-google-cloud-gkehub-v1beta1:0.2.1:0.2.2-SNAPSHOT
+proto-google-cloud-gkehub-v1alpha:0.2.1:0.2.2-SNAPSHOT
+proto-google-cloud-gkehub-v1alpha2:0.2.1:0.2.2-SNAPSHOT
