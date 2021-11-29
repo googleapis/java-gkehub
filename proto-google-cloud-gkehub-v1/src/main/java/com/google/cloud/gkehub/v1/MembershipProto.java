@@ -66,8 +66,7 @@ public final class MembershipProto {
     java.lang.String[] descriptorData = {
       "\n"
           + "\'google/cloud/gkehub/v1/membership.prot"
-          + "o\022\026google.cloud.gkehub.v1\032\037google/api/fi"
-          + "eld_behavior.proto\032\031google/api/resource.proto\032\037google/protobuf/timestamp.proto\032\034google/api/annotations.proto\"\356\005\n\n"
+          + "o\022\026google.cloud.gkehub.v1\032\037google/api/field_behavior.proto\032\031google/api/resource.proto\032\037google/protobuf/timestamp.proto\032\034google/api/annotations.proto\"\356\005\n\n"
           + "Membership\022C\n"
           + "\010endpoint\030\004"
           + " \001(\0132*.google.cloud.gkehub.v1.MembershipEndpointB\003\340A\001H\000\022\021\n"

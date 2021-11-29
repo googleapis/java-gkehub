@@ -133,8 +133,7 @@ public final class ConfigManagementProto {
   static {
     java.lang.String[] descriptorData = {
       "\n"
-          + "Bgoogle/cloud/gkehub/v1beta/configmanagement/configmanagement.proto\022+google.clo"
-          + "ud.gkehub.configmanagement.v1beta\032\037google/protobuf/timestamp.proto\032\034google/api/annotations.proto\"\316\004\n"
+          + "Bgoogle/cloud/gkehub/v1beta/configmanagement/configmanagement.proto\022+google.cloud.gkehub.configmanagement.v1beta\032\037google/protobuf/timestamp.proto\032\034google/api/annotations.proto\"\316\004\n"
           + "\017MembershipState\022\024\n"
           + "\014cluster_name\030\001 \001(\t\022T\n"
           + "\017membership_spec\030\002"
