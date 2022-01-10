@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.5.5](https://www.github.com/googleapis/java-gkehub/compare/v0.5.4...v0.5.5) (2022-01-10)
+
+
+### Bug Fixes
+
+* **java:** run Maven in plain console-friendly mode ([#1301](https://www.github.com/googleapis/java-gkehub/issues/1301)) ([#164](https://www.github.com/googleapis/java-gkehub/issues/164)) ([dcb5b93](https://www.github.com/googleapis/java-gkehub/commit/dcb5b934b2d164330a020d163bcd2e5fa136857b))
+
 ### [0.5.4](https://www.github.com/googleapis/java-gkehub/compare/v0.5.3...v0.5.4) (2022-01-07)
 
 
