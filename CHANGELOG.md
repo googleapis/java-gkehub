@@ -6,6 +6,7 @@
 ### Features
 
 * promote to GA ([#181](https://github.com/googleapis/java-gkehub/issues/181)) ([cbe1ca6](https://github.com/googleapis/java-gkehub/commit/cbe1ca609fd7dc78dfc7937a7fba74fed527764a))
+* add kubernetes_resource field docs: update API annotation
 
 
 ### Bug Fixes
