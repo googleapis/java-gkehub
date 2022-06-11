@@ -51,5 +51,5 @@ deep-copy-regex:
 
 - source: "/google/cloud/gkehub/(v.*)/.*-java/gapic-google-.*/src"
   dest: "/owl-bot-staging/$1/google-cloud-gkehub/src"
-- source: "/google/cloud/dataproc/(v.*)/.*-java/samples/snippets/generated"
+- source: "/google/cloud/gkehub/(v.*)/.*-java/samples/snippets/generated"
   dest: "/owl-bot-staging/$1/samples/snippets/generated"
