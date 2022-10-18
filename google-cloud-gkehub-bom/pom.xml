@@ -106,7 +106,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>proto-google-cloud-gkehub-v1beta</artifactId>
-        <version>0.10.0</version><!-- {x-version-update:proto-google-cloud-gkehub-v1beta:current} -->
+        <version>0.9.7-SNAPSHOT</version><!-- {x-version-update:proto-google-cloud-gkehub-v1beta:current} -->
       </dependency>
     </dependencies>
   </dependencyManagement>
